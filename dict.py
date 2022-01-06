@@ -7,5 +7,3 @@ anh_viet = {
 # x = int(input("Nhap x: "))
 if "sua" in anh_viet.get("rice"):
 	print("Co")
-else:
-	print("Khong")

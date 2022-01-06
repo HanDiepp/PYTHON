@@ -5,8 +5,6 @@ class Animal:
 		self.nature = nature
 a1 = Animal("Fish", "earthworm", "friendly")
 print(a1.name)
-print(a1.food)
-print(a1.nature)
 
 
 
