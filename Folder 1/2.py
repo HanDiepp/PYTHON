@@ -1,1 +1,0 @@
-print("Nguyen Ngoc Linh")
